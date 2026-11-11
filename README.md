@@ -1,30 +1,32 @@
-<h1 align="center">Olá, eu sou o Luiz Felipe 👋</h1>
-
 <p align="center">
-  <strong>Estudante de Engenharia de Software no CEUB</strong>
+  <img src="./banner.svg" width="100%" alt="Luiz Felipe · Engenharia de Software · Python">
 </p>
 
 <p align="center">
-  <a href="https://luizfelip-dev.github.io/portfolioHUB/">
-    <img alt="Ver meu portfólio" src="https://img.shields.io/badge/Ver_meu_portf%C3%B3lio-238636?style=for-the-badge&logo=github&logoColor=white">
-  </a>
+  <img alt="Foco em Python" src="https://img.shields.io/badge/FOCO-PYTHON-ffd46a?style=for-the-badge&amp;labelColor=271637&amp;logo=python&amp;logoColor=ffd46a">
+  <a href="https://luizfelip-dev.github.io/portfolioHUB/"><img alt="Ver meu portfólio" src="https://img.shields.io/badge/VER_PORTF%C3%93LIO-7639a2?style=for-the-badge&amp;logo=github&amp;logoColor=white"></a>
 </p>
 
-## Sobre mim
+## 👋 Sobre mim
 
-Estou cursando Engenharia de Software e uso este perfil para reunir meus projetos web e acadêmicos. Gosto de colocar em prática o que aprendo sobre lógica de programação e arquitetura de sistemas.
+Sou o Luiz Felipe, estudante de **Engenharia de Software no CEUB**. Uso o GitHub para reunir meus projetos acadêmicos e web e registrar o que aprendo na prática.
 
-## Tecnologias que uso nos meus projetos
+## 🐍 Meu foco é Python
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+Estou aprofundando meus estudos em **Python**, com foco em lógica de programação, resolução de problemas e scripts para automatizar tarefas.
 
-## Projetos em destaque
+~~~python
+def apresentar():
+    return "Olá, mundo! Eu sou o Luiz Felipe."
 
-| Projeto | Sobre |
+print(apresentar())
+~~~
+
+Também uso **Git** para versionar meus projetos e trabalho com **HTML, JavaScript e TypeScript** nos projetos web.
+
+## 🚀 Projetos em destaque
+
+| Projeto | O que você encontra |
 | :--- | :--- |
-| [portfolioHUB](https://github.com/luizfelip-dev/portfolioHUB) | Meu portfólio com projetos acadêmicos |
-| [luiztv](https://github.com/luizfelip-dev/luiztv) | Projeto web em JavaScript · [Ver site](https://luizfelip-dev.github.io/luiztv/) |
-| [Studio em Dia](https://github.com/luizfelip-dev/studio-em-dia) | Projeto em TypeScript |
+| [**portfolioHUB**](https://github.com/luizfelip-dev/portfolioHUB) | Meu portfólio com projetos acadêmicos, incluindo um banco de dados para uma academia e um circuito DC. |
+| [**Studio em Dia**](https://github.com/luizfelip-dev/studio-em-dia) | Projeto web em TypeScript. |
