@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="272" height="62" viewBox="0 0 272 62" role="img" aria-labelledby="title">
+  <title id="title">E-mail para Luiz Felipe — luizfmello4@gmail.com</title>
+  <defs>
+    <linearGradient id="surface" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#37253D"/>
+      <stop offset="1" stop-color="#1A1325"/>
+    </linearGradient>
+  </defs>
+  <rect x=".5" y=".5" width="271" height="61" rx="13.5" fill="url(#surface)" stroke="#82604F"/>
+  <rect x="12" y="13" width="37" height="36" rx="10" fill="#FFD88D" fill-opacity=".12"/>
+  <g color="#FFD88D"><rect x="21.5" y="24.5" width="18" height="13" rx="2.5" stroke="currentColor" stroke-width="1.6" fill="none"/><path d="m22.5 26 8 5.7 8-5.7" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round" fill="none"/></g>
+  <g font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">
+    <text x="62" y="25" fill="#FFD88D" font-size="10" font-weight="700" letter-spacing="1.4">E-MAIL</text>
+    <text x="62" y="43" fill="#FFF7FF" font-size="14" font-weight="600">luizfmello4@gmail.com</text>
+  </g>
+  <path d="M0 8 8 0M1 0h7v7" transform="translate(248 26)" fill="none" stroke="#FFD88D" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
