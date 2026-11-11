@@ -33,4 +33,7 @@ Também uso **Git** para versionar meus projetos e trabalho com **HTML, JavaScri
 
 ## 📫 Contato
 
-[LinkedIn](https://www.linkedin.com/in/luiz-felipem-dev/) · [luizfmello4@gmail.com](mailto:luizfmello4@gmail.com)
+<p>
+  <a href="https://www.linkedin.com/in/luiz-felipem-dev/"><img src="./assets/contato-linkedin.svg" alt="LinkedIn de Luiz Felipe" width="225" height="62"></a>
+  <a href="mailto:luizfmello4@gmail.com"><img src="./assets/contato-email.svg" alt="E-mail para Luiz Felipe — luizfmello4@gmail.com" width="272" height="62"></a>
+</p>
