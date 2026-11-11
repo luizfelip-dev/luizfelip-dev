@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="280" viewBox="0 0 1120 280" role="img" aria-labelledby="title desc">
+  <title id="title">Luiz Felipe — Python e Engenharia de Software</title>
+  <desc id="desc">Banner violeta com órbita luminosa e uma janela de terminal.</desc>
+  <defs>
+    <linearGradient id="background" x2="1" y2="1"><stop stop-color="#150d2a"/><stop offset="1" stop-color="#37104b"/></linearGradient>
+    <radialGradient id="orbit" cx=".52" cy=".07" r=".86"><stop stop-color="#bc62f0"/><stop offset=".45" stop-color="#7327a1"/><stop offset="1" stop-color="#230e41"/></radialGradient>
+    <linearGradient id="accent"><stop stop-color="#ffd46a"/><stop offset="1" stop-color="#f095f6"/></linearGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#d8a8ff" stroke-opacity=".09"/></pattern>
+    <clipPath id="frame"><rect width="1120" height="280" rx="18"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="1120" height="280" fill="url(#background)"/>
+    <circle cx="846" cy="279" r="313" fill="url(#orbit)"/>
+    <circle cx="846" cy="279" r="333" fill="none" stroke="#d58aff" stroke-opacity=".24"/>
+    <circle cx="846" cy="279" r="354" fill="none" stroke="#d58aff" stroke-opacity=".14"/>
+    <rect width="1120" height="280" fill="url(#grid)"/>
+    <rect x=".5" y=".5" width="1119" height="279" rx="18" fill="none" stroke="#ad70da" stroke-opacity=".5"/>
+    <rect x="64" y="56" width="42" height="3" rx="1.5" fill="url(#accent)"/>
+    <text x="119" y="64" fill="#f0cfff" font-family="monospace" font-size="19" letter-spacing="2">OLÁ, EU SOU O</text>
+    <text x="60" y="145" fill="#fff6ff" font-family="Arial, sans-serif" font-weight="800" font-size="76" letter-spacing="-3">Luiz Felipe</text>
+    <text x="65" y="198" fill="#e8cff8" font-family="Arial, sans-serif" font-size="27">Engenharia de Software</text>
+    <rect x="65" y="219" width="106" height="31" rx="15" fill="#ffd46a"/>
+    <text x="118" y="240" fill="#281434" font-family="monospace" font-weight="700" font-size="18" text-anchor="middle">PYTHON</text>
+    <g transform="translate(698 69)">
+      <rect x="8" y="10" width="334" height="142" rx="14" fill="#180d32" opacity=".5"/>
+      <rect width="334" height="142" rx="14" fill="#201332" stroke="#d78aff" stroke-opacity=".8"/>
+      <path d="M0 34H334" stroke="#d78aff" stroke-opacity=".4"/>
+      <circle cx="19" cy="17" r="4" fill="#f095f6"/><circle cx="33" cy="17" r="4" fill="#ffd46a"/><circle cx="47" cy="17" r="4" fill="#aa8af1"/>
+      <text x="167" y="22" text-anchor="middle" fill="#ead6ff" font-family="monospace" font-size="13">hello.py</text>
+      <text x="24" y="76" fill="#f1c4ff" font-family="monospace" font-size="22">&gt;&gt;&gt; <tspan fill="#ffe189">print</tspan>(<tspan fill="#f5e9ff">"Olá, mundo!"</tspan>)</text>
+      <text x="24" y="111" fill="#fff4ff" font-family="monospace" font-size="20">Olá, mundo! <tspan fill="#ffd46a">_</tspan></text>
+    </g>
+  </g>
+</svg>
